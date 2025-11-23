@@ -1,0 +1,10 @@
+# Requirements for Context Engineering Workshop Example
+
+# LLM API Clients
+openai>=1.0.0
+
+# Utilities
+python-dotenv>=1.0.0
+
+# Optional: for enhanced CLI output
+rich>=13.0.0
